@@ -14,9 +14,9 @@
 
 ![Orchestrate Terminal UI](./orchestrate.png)
 
-<p align="center">
-<strong><h2>Developer: Anurag Dashore</h2></strong><br><br>
-</p>
+---
+<h1 align="center">Developer: Anurag Dashore<h1>
+  
 <p align="center">
   <a href="https://github.com/ANURAG-DASHORE">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
