@@ -10,6 +10,8 @@
 **LinkedIn:** [anurag-dashore](https://linkedin.com/in/anurag-dashore)  
 **Discord:** [@AD1024](https://discord.com/users/1514340414692528179)
 
+![Orchestrate Terminal UI](./orchestrate.png)
+
 ---
 ## 📋 Resources
 - [Interview Q&A — AI Interviewer Questions & Answers](./INTERVIEW_QA.md)
