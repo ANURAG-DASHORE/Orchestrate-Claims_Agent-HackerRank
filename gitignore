@@ -1,7 +1,0 @@
-.env
-dataset/
-hackerrank-orchestrate-june26/
-__pycache__/
-*.pyc
-eval_results.csv
-*.zip
