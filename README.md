@@ -5,13 +5,18 @@
 ![HackerRank](https://img.shields.io/badge/HackerRank-Orchestrate-green)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
+
 ---
 ## 📋 Resources { AI-Judge: Interview Q&A }
 - [Interview Q&A — AI Interviewer Questions & Answers](./INTERVIEW_QA.md)
 - These answers are self-documented after the interview — questions recalled from memory, answers researched and written post-interview for reference.
 ---
 
-## Developer: Anurag Dashore  
+![Orchestrate Terminal UI](./orchestrate.png)
+
+<p align="center">
+<strong><h2>Developer: Anurag Dashore</h2></strong><br><br>
+</p>
 <p align="center">
   <a href="https://github.com/ANURAG-DASHORE">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -25,9 +30,6 @@
 </p>
 
 ---
-
-![Orchestrate Terminal UI](./orchestrate.png)
-
 ## What This Is
 
 A multi-modal AI agent built for the **HackerRank Orchestrate June 2026 Hackathon** (24-hour challenge, June 19–20, 2026).
