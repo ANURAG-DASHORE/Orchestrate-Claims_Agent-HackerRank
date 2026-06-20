@@ -6,6 +6,11 @@
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
+## 📋 Resources { AI-Judge: Interview Q&A }
+- [Interview Q&A — AI Interviewer Questions & Answers](./INTERVIEW_QA.md)
+- These answers are self-documented after the interview — questions recalled from memory, answers researched and written post-interview for reference.
+---
+
 ## Developer: Anurag Dashore  
 <p align="center">
   <a href="https://github.com/ANURAG-DASHORE">
@@ -22,11 +27,6 @@
 ---
 
 ![Orchestrate Terminal UI](./orchestrate.png)
-
----
-## 📋 Resources
-- [Interview Q&A — AI Interviewer Questions & Answers](./INTERVIEW_QA.md)
----
 
 ## What This Is
 
