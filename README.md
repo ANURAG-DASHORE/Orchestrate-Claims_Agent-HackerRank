@@ -5,9 +5,8 @@
 ![HackerRank](https://img.shields.io/badge/HackerRank-Orchestrate-green)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-![Orchestrate Terminal UI](./orchestrate.png)
-
-**Developer:** **Anurag Dashore**  
+---
+## Developer: Anurag Dashore  
 <p align="center">
   <a href="https://github.com/ANURAG-DASHORE">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -19,6 +18,10 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord"/>
   </a>
 </p>
+
+---
+
+![Orchestrate Terminal UI](./orchestrate.png)
 
 ---
 ## 📋 Resources
