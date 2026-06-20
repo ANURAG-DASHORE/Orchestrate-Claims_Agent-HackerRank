@@ -11,6 +11,9 @@
 **Discord:** [@AD1024](https://discord.com/users/1514340414692528179)
 
 ---
+## 📋 Resources
+- [Interview Q&A — AI Interviewer Questions & Answers](./INTERVIEW_QA.md)
+---
 
 ## What This Is
 
