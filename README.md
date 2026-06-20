@@ -5,12 +5,20 @@
 ![HackerRank](https://img.shields.io/badge/HackerRank-Orchestrate-green)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-**Developer:** Anurag Dashore  
-**GitHub:** [@ANURAG-DASHORE](https://github.com/ANURAG-DASHORE)  
-**LinkedIn:** [anurag-dashore](https://linkedin.com/in/anurag-dashore)  
-**Discord:** [@AD1024](https://discord.com/users/1514340414692528179)
-
 ![Orchestrate Terminal UI](./orchestrate.png)
+
+**Developer:** **Anurag Dashore**  
+<p align="center">
+  <a href="https://github.com/ANURAG-DASHORE">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://linkedin.com/in/anurag-dashore">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://discord.com/users/1514340414692528179">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord"/>
+  </a>
+</p>
 
 ---
 ## 📋 Resources
